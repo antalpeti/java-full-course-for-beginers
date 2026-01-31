@@ -1,4 +1,4 @@
-package programming.with.mosh;
+package com.codewithmosh;
 
 import lombok.extern.slf4j.Slf4j;
 
